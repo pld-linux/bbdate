@@ -1,4 +1,5 @@
 Summary:	bbdate - displays the current date
+Summary(pl):	bbdate - wy¶wietlanie bie¿±cej daty
 Name:		bbdate
 Version:	0.2.4
 Release:	0.1
@@ -14,8 +15,12 @@ BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-This Tool displays the date in an decorated window, simulating the
+This tool displays the date in an decorated window, simulating the
 look of the Blackbox toolbar.
+
+%description -l pl
+To narzêdzie wy¶wietla datê w dekorowanym oknie, symuluj±cym wygl±d
+paska narzêdziowego Blackboksa.
 
 %prep
 %setup -q
