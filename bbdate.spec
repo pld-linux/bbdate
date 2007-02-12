@@ -1,5 +1,5 @@
 Summary:	bbdate - displays the current date
-Summary(pl.UTF-8):   bbdate - wyświetlanie bieżącej daty
+Summary(pl.UTF-8):	bbdate - wyświetlanie bieżącej daty
 Name:		bbdate
 Version:	0.2.4
 Release:	0.1
