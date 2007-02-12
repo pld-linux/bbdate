@@ -1,5 +1,5 @@
 Summary:	bbdate - displays the current date
-Summary(pl):	bbdate - wy¶wietlanie bie¿±cej daty
+Summary(pl.UTF-8):   bbdate - wyÅ›wietlanie bieÅ¼Ä…cej daty
 Name:		bbdate
 Version:	0.2.4
 Release:	0.1
@@ -18,9 +18,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This tool displays the date in an decorated window, simulating the
 look of the Blackbox toolbar.
 
-%description -l pl
-To narzêdzie wy¶wietla datê w dekorowanym oknie, symuluj±cym wygl±d
-paska narzêdziowego Blackboksa.
+%description -l pl.UTF-8
+To narzÄ™dzie wyÅ›wietla datÄ™ w dekorowanym oknie, symulujÄ…cym wyglÄ…d
+paska narzÄ™dziowego Blackboksa.
 
 %prep
 %setup -q
